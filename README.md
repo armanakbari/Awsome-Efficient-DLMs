@@ -12,4 +12,6 @@ Block Diffusion: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MOD
 - [09/27/2025] d2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching [Paper](https://arxiv.org/pdf/2509.23094)
 - [09/24/2025] FS-DFM: FAST AND ACCURATE LONG TEXT GENERATION WITH FEW-STEP DIFFUSION LANGUAGE MODELS [Paper](https://arxiv.org/pdf/2509.20624v1)
 - [09/22/2025] Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding [Paper](https://arxiv.org/pdf/2509.18085)
+- [08/23/2025] DPad: Efficient Diffusion Language Models with Suffix Dropout [Paper](https://arxiv.org/pdf/2508.14148)
+- [05/30/2025] Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking [Meta] [Paper](https://arxiv.org/pdf/2505.24857)
 - [03/24/2025] Anchored Diffusion Language Model [Paper](https://arxiv.org/pdf/2505.18456)
