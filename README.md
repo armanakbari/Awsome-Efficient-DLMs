@@ -1,4 +1,4 @@
-# Efficient DLMs
+# Efficient Diffusion Language Models (DLMs)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
