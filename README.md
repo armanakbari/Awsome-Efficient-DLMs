@@ -18,4 +18,5 @@
 - [09/22/2025] Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding [Paper](https://arxiv.org/pdf/2509.18085)
 - [08/23/2025] DPad: Efficient Diffusion Language Models with Suffix Dropout [Paper](https://arxiv.org/pdf/2508.14148)
 - [05/30/2025] Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking ![Static Badge](https://img.shields.io/badge/Meta-ArXiv-red) [Paper](https://arxiv.org/pdf/2505.24857)
+- [05/21/2025] Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.10446)
 - [03/24/2025] Anchored Diffusion Language Model ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.18456)
