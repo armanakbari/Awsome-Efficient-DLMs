@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
+This is list of papers on efficient DLMs. Please open an issue if you want to request a paper.
+
 
 ## Most Read
 - LLaDA: Large Language Diffusion Models [Paper](https://arxiv.org/pdf/2502.09992)
@@ -14,6 +16,7 @@
 - [09/28/2025] SEQUENTIAL DIFFUSION LANGUAGE MODELS ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://www.alphaxiv.org/abs/2509.24007)
 - [09/28/2025] DON’T SETTLE TOO EARLY: SELF-REFLECTIVE REMASKING FOR DIFFUSION LANGUAGE MODELS ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://www.arxiv.org/pdf/2509.23653)
 - [09/27/2025] d2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2509.23094)
+- [09/27/2025] Planner Aware Path Learning in Diffusion Language Models Training ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper]([https://arxiv.org/pdf/2509.23094](https://www.arxiv.org/pdf/2509.23405))
 - [09/24/2025] FS-DFM: FAST AND ACCURATE LONG TEXT GENERATION WITH FEW-STEP DIFFUSION LANGUAGE MODELS [Paper](https://arxiv.org/pdf/2509.20624v1)
 - [09/22/2025] Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2509.18085)
 - [08/23/2025] DPad: Efficient Diffusion Language Models with Suffix Dropout ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2508.14148)
