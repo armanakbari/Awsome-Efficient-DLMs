@@ -5,7 +5,9 @@
 
 This is list of papers on efficient DLMs. Please open an issue if you want to request a paper.
 
-
+## CodeBases
+- RND-1 [Paper](https://www.radicalnumerics.ai/assets/rnd1_report.pdf)
+  
 ## Must Read
 - LLaDA: Large Language Diffusion Models [Paper](https://arxiv.org/pdf/2502.09992)
 - Block Diffusion: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS [ICLR'25] [Paper](https://arxiv.org/pdf/2503.09573)
