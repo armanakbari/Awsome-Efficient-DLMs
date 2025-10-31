@@ -24,6 +24,7 @@ This is list of papers on efficient DLMs. Please open an issue if you want to re
 - [08/23/2025] DPad: Efficient Diffusion Language Models with Suffix Dropout ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2508.14148)
 - [09/22/2025] Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2509.18085)
 - [05/30/2025] Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking ![Static Badge](https://img.shields.io/badge/Meta-ArXiv-red) [Paper](https://arxiv.org/pdf/2505.24857)
+- [10/01/2025] Fine-Tuning Masked Diffusion FOR PROVABLE SELF-CORRECTION [Paper](https://arxiv.org/pdf/2510.01384)
 ## KV Cach
 - [09/30/2025] Fast-dLLM v2: Efficient Block-Diffusion LLM ![Static Badge](https://img.shields.io/badge/Nvidia-ArXiv-red) [Paper](https://www.alphaxiv.org/abs/2509.26328)
 - [09/27/2025] d2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2509.23094)
