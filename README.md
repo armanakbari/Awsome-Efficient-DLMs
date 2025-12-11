@@ -41,11 +41,13 @@ This is list of papers on efficient DLMs. Please open an issue if you want to re
 - [09/24/2025] FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion [Paper](https://arxiv.org/pdf/2509.20624v1)
 - [07/22/2024] Descrite Flow Matching ![Static Badge](https://img.shields.io/badge/Neurips'24-red)  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f0d629a734b56a642701bba7bc8bb3ed-Paper-Conference.pdf)
 
-
+## Reasoning
+- [05/21/2025] Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.10446)
+- [04/16/2025] d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning [Paper](https://arxiv.org/abs/2504.12216)
+  
 
 ## Unsorted
 - [09/27/2025] Planner Aware Path Learning in Diffusion Language Models Training ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper]([https://arxiv.org/pdf/2509.23094](https://www.arxiv.org/pdf/2509.23405))
 - [05/27/2025] Non-Markovian Discrete Diffusion with Causal Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2502.09767)
 - [05/27/2025] DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation ![Static Badge](https://img.shields.io/badge/Meta-ArXiv-red) [Paper](https://www.arxiv.org/pdf/2506.20639)
-- [05/21/2025] Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.10446)
 - [03/24/2025] Anchored Diffusion Language Model ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.18456)
