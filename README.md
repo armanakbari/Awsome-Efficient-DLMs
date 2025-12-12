@@ -5,14 +5,14 @@
 
 This is list of papers on efficient DLMs. Please open an issue if you want to request a paper.
 
-## CodeBases
-- RND-1 [Paper](https://www.radicalnumerics.ai/assets/rnd1_report.pdf)
   
 ## Must Read
 - LLaDA: Large Language Diffusion Models [Paper](https://arxiv.org/pdf/2502.09992)
+- Dream 7B: Diffusion Large Language Models [Paper](https://arxiv.org/pdf/2508.15487)
 - Block Diffusion: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS [ICLR'25] [Paper](https://arxiv.org/pdf/2503.09573)
 
 ## Sampling
+- [11/24/2025] CDLM: Consistency Diffusion Language Models For Faster Sampling [Paper](http://arxiv.org/abs/2511.19269v1)
 #### Variable Length
 - [09/30/2025] dParallel: Learnable Parallel Decoding for dLLMs ![Static Badge](https://img.shields.io/badge/Nvidia-ArXiv-red)  [Paper](https://arxiv.org/pdf/2509.26488)
 - [09/29/2025] Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2509.15188)
@@ -21,6 +21,7 @@ This is list of papers on efficient DLMs. Please open an issue if you want to re
 - [10/28/2025] Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way [Paper](https://arxiv.org/pdf/2510.24605)
   
 #### Block-wise
+- [12/07/2025] From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs [Paper](http://arxiv.org/abs/2512.06776v1)
 - [09/28/2025] Don't Settle Too Early: Self-reflective Remasking for Diffusion Language Models ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://www.arxiv.org/pdf/2509.23653)
 - [08/23/2025] DPad: Efficient Diffusion Language Models with Suffix Dropout ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2508.14148)
 - [09/22/2025] Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper](https://arxiv.org/pdf/2509.18085)
@@ -42,12 +43,15 @@ This is list of papers on efficient DLMs. Please open an issue if you want to re
 - [07/22/2024] Descrite Flow Matching ![Static Badge](https://img.shields.io/badge/Neurips'24-red)  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f0d629a734b56a642701bba7bc8bb3ed-Paper-Conference.pdf)
 
 ## Reasoning
+- [12/10/2025] d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models [Paper](http://arxiv.org/abs/2512.09675v1)
 - [05/21/2025] Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.10446)
 - [04/16/2025] d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning [Paper](https://arxiv.org/abs/2504.12216)
-  
+- [10/24/2025] MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization [Paper](http://arxiv.org/abs/2510.21473v1)
+- [10/31/2025] Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning [Paper](http://arxiv.org/abs/2510.27469v1)
 
 ## Unsorted
 - [09/27/2025] Planner Aware Path Learning in Diffusion Language Models Training ![Static Badge](https://img.shields.io/badge/ArXiv-red) [Paper]([https://arxiv.org/pdf/2509.23094](https://www.arxiv.org/pdf/2509.23405))
 - [05/27/2025] Non-Markovian Discrete Diffusion with Causal Language Models ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2502.09767)
 - [05/27/2025] DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation ![Static Badge](https://img.shields.io/badge/Meta-ArXiv-red) [Paper](https://www.arxiv.org/pdf/2506.20639)
 - [03/24/2025] Anchored Diffusion Language Model ![Static Badge](https://img.shields.io/badge/Neurips'25-red) [Paper](https://arxiv.org/pdf/2505.18456)
+- [10/07/2025] Variational Masked Diffusion Models [Paper](http://arxiv.org/abs/2510.23606v1)
